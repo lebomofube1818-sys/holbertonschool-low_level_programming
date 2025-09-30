@@ -7,5 +7,4 @@ It focuses on using variables, conditional statements (`if`, `else`, `else if`),
 
 - **0-positive_or_negative.c**: Prints whether a random number is positive, negative, or zero.  
 - **1-last_digit.c**: Prints the last digit of a random number and states if it is greater than 5, equal to 0, or less than 6 and not 0.  
-
-More files will be added as tasks are completed.
+- **2-print_alphabet.c**: Prints the alphabet in lowercase using only `putchar`, followed by a new line.  
