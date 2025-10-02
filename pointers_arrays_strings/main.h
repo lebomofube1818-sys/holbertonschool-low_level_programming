@@ -11,6 +11,9 @@ unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
+/* Print functions */
+void print_chessboard(char (*a)[8]);
+
 /* Other functions */
 int _putchar(char c);
 
