@@ -1,9 +1,12 @@
 #ifndef FUNCTION_POINTERS_H
 #define FUNCTION_POINTERS_H
 
+#include <stddef.h>
+
 /**
  * File: function_pointers.h
- * Desc: Header file for function pointer functions.
+ * Author: Realeboha Mofube
+ * Description: Header file containing prototypes for function pointer tasks.
  */
 
 int _putchar(char c);
