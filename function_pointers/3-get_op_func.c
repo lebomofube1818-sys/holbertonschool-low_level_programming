@@ -1,12 +1,12 @@
 #include "3-calc.h"
-#include <stddef.h>
 #include <string.h>
+#include <stddef.h>
 
 /**
  * get_op_func - selects the correct function for an operator
  * @s: operator string
  *
- * Return: pointer to function or NULL if invalid
+ * Return: pointer to function, or NULL if invalid
  */
 int (*get_op_func(char *s))(int, int)
 {
@@ -30,7 +30,6 @@ int (*get_op_func(char *s))(int, int)
             return (ops[i].f);
         i++;
     }
-
     return (NULL);
 }
 
