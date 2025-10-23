@@ -1,0 +1,67 @@
+* [33m253ae08[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Add 1-array_iterator function for function_pointers project
+* [33m6647d89[m Add 0-print_name function and header for function_pointers project
+* [33m29124fb[m Remove previous recursion tasks to start fresh
+* [33m5bc6a20[m Update main.h and add _print_rev_recursion task
+* [33m71d2eef[m Recursion: add 0-puts_recursion task with README
+* [33m13b0739[m 3. array_range: creates an array of integers from min to max
+* [33mad32ab9[m 2. _calloc: allocates memory for an array, initialized to 0
+* [33m0a8ff96[m 1. String nconcat: concatenates s1 with first n bytes of s2
+* [33mac7bc61[m 0. Trust no one: malloc_checked function
+* [33mc179a15[m Remove Task 0 completely
+* [33m7cac885[m 0. Trust no one: malloc_checked function
+* [33me417365[m Task 4: implement free_grid function
+* [33m7069678[m Task 3: implement alloc_grid function
+* [33m8fafbcc[m Task 2: implement str_concat function
+* [33m8bc8e41[m Task 1: implement _strdup function
+* [33ma9c83ce[m Fix Betty style: convert spaces to tabs
+* [33mea38823[m Task 0: create_array function
+* [33m714579c[m Fix Betty style for 2-strchr
+* [33m0dd64b3[m Fix Betty style for 3-strspn
+* [33ma9c53fb[m Fix Betty style for 2-strchr
+* [33m3927b75[m Fix Betty style for 1-memcpy
+* [33m766e7eb[m Fix Betty style and documentation for 0-memset
+* [33m9f38e18[m 8-print_diagsums: implemented diagonal sums function
+* [33mc4e987e[m 7-print_chessboard: implemented print_chessboard function
+* [33m7e978d0[m 5-strstr: implemented _strstr function and updated main.h
+* [33m53ab0c0[m 4-strpbrk: implemented _strpbrk function and updated main.h
+* [33mce03102[m 3-strspn: implemented _strspn function
+* [33m3df94f9[m 2-strchr: implemented _strchr function
+* [33m5601a95[m 1-memcpy: implemented _memcpy function
+* [33m73062d5[m 0-memset: implemented _memset function
+* [33mc8197f6[m Added README for 0-memset task
+* [33m87f7c11[m Add 10-print_triangle function
+* [33m8b136c4[m Add 9-fizz_buzz program
+* [33mdca90e1[m Add 8-print_square function
+* [33m72764b6[m Add 7-print_diagonal function
+* [33mae576b5[m Add 6-print_line function
+* [33madab3da[m Add 5-more_numbers function
+* [33m43167a9[m Add 4-print_most_numbers function
+* [33m122c45c[m Add 3-print_numbers function
+* [33mc0bf7eb[m Add 2-mul function
+* [33m2804d53[m Add 1-isdigit function
+* [33m4a87e79[m Add 0-isupper task files
+* [33m5ec08b6[m Add 9-print_comb.c to print all combinations of single-digit numbers
+* [33md7c1ab0[m Add 8-print_base16.c to print base 16 numbers in lowercase using putchar
+* [33mefa397f[m Add 7-print_tebahpla.c to print lowercase alphabet in reverse using putchar
+* [33mb2ab588[m Add 6-print_numberz.c to print single digit numbers using putchar
+* [33m4e6d6b5[m Clean directory and add 5-print_numbers.c task solution
+* [33md9fa9eb[m Add 4-print_alphabt.c to print alphabet except q and e
+* [33m6d4a636[m Add tasks 0-3 in variables_if_else_while
+* [33mb69c162[m Update README.md to include tasks 0, 1, and 2
+* [33mb299f3c[m Add 2-print_alphabet.c to print lowercase alphabet
+* [33m63fa984[m Add 1-last_digit.c and README.md for variables_if_else_while project
+* [33m3351f81[m Add 1-last_digit.c solution
+* [33md3a7eab[m Add 0-positive_or_negative.c solution
+* [33m55b65c9[m Create README.md
+* [33m16c913b[m Remove README.MD from repository
+* [33m0fe681f[m Add README.md for hello_world project
+* [33ma5e15b2[m Add README.md for hello_world project
+* [33m5aa714b[m Add 6-size.c program to print sizes of various types
+* [33mf10aa52[m Add 5-printf.c program using printf to print required sentence
+* [33ma9b24cc[m Add 4-puts.c program using puts to print a string
+* [33meb43fe5[m Add 4-puts.c program using puts to print a string
+* [33mef6e0d2[m Add 4-puts.c program using puts to print a string
+* [33m75c65ab[m Add 3-name script to compile C file into cisfun executable
+* [33mdd7fcaa[m Add 2-assembler script for generating assebmly code
+* [33mb5a64b6[m Add 1-compiler script to compile C file without linking
+* [33me017f81[m Add 0-preprocessor and README
